@@ -12,6 +12,18 @@
 | 정렬 - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 정렬 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 정렬 - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 해시 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | | | | | | | |
+| 해시 - [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | | | | | | | |
+| 해시 - [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | | | | | | | |
+| 해시 - [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | | | | | | | |
+| 해시 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | | | | | | | |
+| DFS/BFS - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | | | | | | | |
+| DFS/BFS - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | | | | | | | |
+| DFS/BFS - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | | | | | | | |
+| DFS/BFS - [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | | | | | | | |
+| DFS/BFS - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | | | | | | | |
+| DFS/BFS - [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | | | | | | | |
+| DFS/BFS - [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | | | | | | | |
 
 ## 🏁 출석 여부
 | | 달리/강현욱 | 시오/김현성 | 지니/박세진 | 제이콥/백계환 | 제리/신초은 | 프리/이상남 | 데이빗/최현준 |
