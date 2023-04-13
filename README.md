@@ -1,6 +1,24 @@
-# UMC 알고리즘 스터디
+# 🖥️ UMC 알고리즘 스터디 - A팀
 
-> 팀원 : 강현욱 , 김현성 , 박세진 , 백계환 ,신초은 , 이상남 ,  최현준
+## 🍀 팀원
+
+[![](https://avatars.githubusercontent.com/u/43662405?v=4)](https://github.com/hyunw9) | [![](https://avatars.githubusercontent.com/u/122839143?v=4)](https://github.com/evgeniac10) | [![](https://avatars.githubusercontent.com/u/95167215?v=4)](https://github.com/sejineer) | [![](https://avatars.githubusercontent.com/u/97265630?v=4)](https://github.com/gyehwan24) | [![](https://avatars.githubusercontent.com/u/95676587?v=4)](https://github.com/choeun7) | [![](https://avatars.githubusercontent.com/u/77337977?v=4)](https://github.com/lsn5963) | [![](	https://avatars.githubusercontent.com/u/90085154?v=4)](https://github.com/devholic22) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 달리/강현욱 | 시오/김현성 | 지니/박세진 | 제이콥/백계환 | 제리/신초은 | 프리/이상남 | 데이빗/최현준 |
+
+## 🏆 문제 풀이 여부
+| | 달리/강현욱 | 시오/김현성 | 지니/박세진 | 제이콥/백계환 | 제리/신초은 | 프리/이상남 | 데이빗/최현준 |
+|:--------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 정렬 - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 정렬 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 정렬 - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+## 🏁 출석 여부
+| | 달리/강현욱 | 시오/김현성 | 지니/박세진 | 제이콥/백계환 | 제리/신초은 | 프리/이상남 | 데이빗/최현준 |
+|:--------:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 23/04/06 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 23/04/13 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 23/05/04 | | | | | | | |
 
 <br>
 
@@ -68,8 +86,5 @@
   - 불참 / 문제안품 : X
   - 문제 <br> https://school.programmers.co.kr/learn/courses/30/parts/12198
  
-
-
-
   <br>
 
