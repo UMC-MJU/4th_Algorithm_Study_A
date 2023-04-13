@@ -24,7 +24,7 @@ public class marathonComplete {
             }
         }
 
-        System.out.println("answer = " + answer);
+        System.out.println("nswer = " + answer);
     }
 
 }
