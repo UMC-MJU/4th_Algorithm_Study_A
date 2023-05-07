@@ -22,8 +22,8 @@
 | 해시 - [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | | | ✅ | ✅ | | ✅| ✅ |
 | 해시 - [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | | | | ✅ | | ✅| ✅ |
 | 해시 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | | | | | |✅ | ✅ |
-| DFS/BFS - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | | | | ✅ | |✅ | ✅ |
-| DFS/BFS - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | | | | | | | ✅ |
+| DFS/BFS - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | | ✅ | | ✅ | |✅ | ✅ |
+| DFS/BFS - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | | ✅ | | | | | ✅ |
 | DFS/BFS - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | | | | ✅ | | | ✅ |
 | DFS/BFS - [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | | | | | | | ✅ |
 | DFS/BFS - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | | | | | | | |
