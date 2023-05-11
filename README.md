@@ -24,7 +24,7 @@
 | 해시 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | | | | | |✅ | ✅ |
 | DFS/BFS - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | | ✅ | | ✅ | |✅ | ✅ |
 | DFS/BFS - [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | | ✅ | | ✅ | | ✅| ✅ |
-| DFS/BFS - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | | | | ✅ | | | ✅ |
+| DFS/BFS - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | | | | ✅ | | ✅| ✅ |
 | DFS/BFS - [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | | | | | | | ✅ |
 | DFS/BFS - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | | | | | | | |
 | DFS/BFS - [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | | | | | | | |
