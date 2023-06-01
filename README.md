@@ -29,9 +29,11 @@
 | DFS/BFS - [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | | | | | | ✅| |
 | DFS/BFS - [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) | | | | | | | |
 | DFS/BFS - [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) | | | | | | | |
-| DP - [계단 오르기](https://www.acmicpc.net/problem/2579) | | | | | | | |
+| DP - [계단 오르기](https://www.acmicpc.net/problem/2579) | |✅ | | | | | |
 | DP - [평범한 배낭](https://www.acmicpc.net/problem/12865) | | | | | | | |
 | DP - [정수 삼각형](https://www.acmicpc.net/problem/1932) | | | | | | ✅| |
+| DP - [포도주 시식](https://www.acmicpc.net/problem/2156) | | | | | | | |
+
 
 ## 🏁 출석 여부
 | | 달리/강현욱 | 시오/김현성 | 지니/박세진 | 제이콥/백계환 | 제리/신초은 | 프리/이상남 | 데이빗/최현준 |
