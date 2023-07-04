@@ -9,7 +9,7 @@ dy = [-1,1,0,0]
 
 q = deque()
 answer = 0
-
+# W인 경우
 rst = []
 for i in range(m):
     for j in range(n):
@@ -45,6 +45,7 @@ rst.append(answer)
 answer = 0                
 tmp = [[0]*n for _ in range(m)]
 
+# B인 경우
 for i in range(m):
     for j in range(n):
         if data[i][j] == "B":
