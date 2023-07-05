@@ -1,3 +1,4 @@
+// 스터디 1주차
 import java.io.*;
 import java.util.*;
 public class Main {
