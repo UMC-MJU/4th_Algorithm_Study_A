@@ -56,3 +56,5 @@ def wall(cnt):
 wall(0)
 
 print(max(rst)) # rst값중 가장 큰값
+
+#수정

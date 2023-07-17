@@ -30,3 +30,5 @@ while q:
             heapq.heappush(q,(cost,i[0]))
 
 print(distance[ed])
+
+#수정
