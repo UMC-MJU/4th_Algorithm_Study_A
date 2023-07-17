@@ -10,4 +10,4 @@ for i in range(3,n+1):
 
 print(data[n])
 
-#수정
+#수정1
