@@ -38,3 +38,5 @@ for idx,rst in enumerate(distance): # 만약 if문안에 들어가지않으면 k
 
 if ch == False:
     print(-1)
+
+#수정

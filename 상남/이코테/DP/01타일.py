@@ -9,3 +9,5 @@ for i in range(3,n+1):
     data[i] = (data[i-1] + data[i-2])  % 15746 # 메모리초과를 막기위해 15746을 사용한다.
 
 print(data[n])
+
+#수정
