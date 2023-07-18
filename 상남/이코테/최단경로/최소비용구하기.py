@@ -31,4 +31,4 @@ while q:
 
 print(distance[ed])
 
-#수정
+#수정1

@@ -24,4 +24,4 @@ while lt<=rt:
         rt = mid - 1
 print(res)
 
-#수정
+#수정1
