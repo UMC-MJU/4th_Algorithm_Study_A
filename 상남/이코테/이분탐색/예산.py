@@ -2,7 +2,6 @@ n = int(input())
 data = list(map(int, input().split()))
 m = int(input())
 
-graph = list(range(min(data), max(data)+1))
 
 lt = 0
 rt = max(data) #data값에서 가장 큰값 가져오기
@@ -26,4 +25,3 @@ while lt<=rt:
         res = mid # 일단 sum이 m보다 작으면 결과에 충족하는거니 일단 저장한다.
 
 print(res)
-print(rt)

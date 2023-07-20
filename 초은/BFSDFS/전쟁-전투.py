@@ -31,8 +31,8 @@ for n in range(1, N+1):
     for m in range(1, M+1):
         if str[m-1] == 'W':     # 우리팀 white
             graph[n][m] = 1
-        else:                   # 반대팀 blue
-            graph[n][m] = 2
+            continue
+        graph[n][m] = 2
 
 
 for team in range(1, 3):    # 우리팀, 반대팀 순서로 계산
