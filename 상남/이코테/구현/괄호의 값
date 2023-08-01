@@ -1,0 +1,19 @@
+n = list(input())
+
+q = []
+for i in n:
+    if i == "(":
+        q.append("(")
+    if i == "[":
+        q.append("[")
+    
+    if i == ")":
+        tmp = q.pop()
+        if tmp != "(":
+            print(0)
+            break
+    if i == "]":
+        tmp = q.pop()
+        if tmp != "[":
+            print(0)
+            break
