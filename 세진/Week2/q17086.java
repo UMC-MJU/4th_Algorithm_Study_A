@@ -5,10 +5,10 @@ import java.util.*;
 public class q17086 {
     static int N, M;
     static int[][] board;
-    static int[][] dis;
-    static int[] dx = {1, 0, -1, 0, 1, 1, -1, -1};
+    static int[][] dis; // 거리 저장 배열
+    static int[] dx = {1, 0, -1, 0, 1, 1, -1, -1}; // 대각선 요소도 추가
     static int[] dy = {0, 1, 0, -1, 1, -1, 1, -1};
-    static List<Point> sharks = new ArrayList<>();
+    static List<Point> sharks = new ArrayList<>(); // 상어 위치 좌표 리스트
     public static class Point{
         int x;
         int y;
@@ -32,7 +32,7 @@ public class q17086 {
                 board[i][j] = sc.nextInt();
                 if(board[i][j] == 1) {
                     sharks.add(new Point(j, i, 0));
-                    dis[i][j] = -1;
+                    dis[i][j] = -1; // 상어 위치 -1로 표시
                 }
             }
         }
@@ -61,7 +61,7 @@ public class q17086 {
                 if(nx < 0 || nx >= M || ny < 0 || ny >= N) continue;
                 if(vis[ny][nx] || dis[ny][nx] == -1) continue;
                 if (dis[ny][nx] != 0) {
-                    if (dis[ny][nx] < cur.dis + 1) continue;
+                    if (dis[ny][nx] < cur.dis + 1) continue; // dis 요소가 0이 아니면서 다음 좌표의 상어로부터의 거리가 더 크면 continue
                 }
                 dis[ny][nx] = cur.dis + 1;
                 vis[ny][nx] = true;
