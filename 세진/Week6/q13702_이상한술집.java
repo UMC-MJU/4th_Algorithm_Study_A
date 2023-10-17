@@ -2,7 +2,7 @@ package Week6;
 
 import java.util.Scanner;
 
-public class q13702 {
+public class q13702_이상한술집 {
     static int N, K;
     static int[] kettles;
     public static void main(String[] args){
