@@ -1,0 +1,3 @@
+-- 코드를 입력하세요
+SELECT NAME FROM ANIMAL_INS ORDER BY DATETIME LIMIT 1;
+-- LIMIT: 상위 몇 개 가져올건지 제한
