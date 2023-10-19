@@ -1,0 +1,22 @@
+# 조건에 맞는 회원수 구하기 
+```sql
+SELECT count(USER_ID) as USERS
+FROM USER_INFO
+WHERE (JOINED BETWEEN '2021-01-01' AND '2021-12-31')
+AND (AGE >= 20 AND AGE <= 29)
+```
+
+---
+# 상위 n개 레코드 
+```sql
+SELECT NAME
+FROM ANIMAL_INS
+ORDER BY DATETIME limit 1;
+```
+---
+# 여러 기준으로 정렬하기
+```sql
+SELECT ANIMAL_ID , NAME, DATETIME
+FROM ANIMAL_INS
+ORDER BY NAME,DATETIME desc;
+```
