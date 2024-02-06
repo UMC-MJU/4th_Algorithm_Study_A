@@ -39,3 +39,6 @@ for i in range(n):
 print(small-1,len(answer))
 for i in answer:
     print(i, end= " ")
+
+# 예전에 풀었던 결혼식을 응용한 문제라고 생각한다.
+# 1에서의 친구, 2에서의 친구 ... 을 구해주는게 핵심
