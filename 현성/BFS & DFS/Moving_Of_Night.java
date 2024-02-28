@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class Main {
+public class Moving_Of_Night {
     static int N;
     static int[][] arr;
     static boolean[][] visited;

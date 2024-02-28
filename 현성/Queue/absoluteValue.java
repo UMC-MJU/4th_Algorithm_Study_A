@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Practice {
+public class absoluteValue {
     public static void main(String[] args) throws IOException {
         System.setIn(new FileInputStream("src/data.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

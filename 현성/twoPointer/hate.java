@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.StringTokenizer;
 import java.util.stream.Collectors;
 
-public class Practice {
+public class hate {
     public static void main(String[] args) throws IOException {
 //        System.setIn(new FileInputStream("src/data.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

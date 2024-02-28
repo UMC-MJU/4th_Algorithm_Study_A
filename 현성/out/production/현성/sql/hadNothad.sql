@@ -1,0 +1,15 @@
+# 1차 시도
+# SELECT ins.ANIMAL_ID , ins.NAME
+# FROM ANIMAL_INS AS ins
+# LEFT JOIN ANIMAL_OUTS AS outs
+# on ins.ANIMAL_ID = outs.ANIMAL_ID
+# WHERE ins.DATETIME > outs.DATETIME
+
+
+#2차시도
+SELECT ins.ANIMAL_ID , ins.NAME
+FROM ANIMAL_INS AS ins
+LEFT JOIN ANIMAL_OUTS AS outs
+on ins.ANIMAL_ID = outs.ANIMAL_ID
+WHERE ins.DATETIME > outs.DATETIME
+ORDER BY ins.datetime

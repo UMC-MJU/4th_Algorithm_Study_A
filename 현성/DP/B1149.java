@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.*;
 
-public class Main{
+public class B1149{
     final static int Red = 0;
     final static int Green = 1;
     final static int Blue = 2;

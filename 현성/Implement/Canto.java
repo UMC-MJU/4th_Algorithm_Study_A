@@ -1,10 +1,11 @@
+package prePractice;
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
-public class Main {
+public class Canto {
     static StringBuilder sb;
 
     public static void main(String[] args) throws IOException {

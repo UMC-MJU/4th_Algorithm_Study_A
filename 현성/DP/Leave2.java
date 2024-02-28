@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class Leave2 {
     public static class Pair{
         int t, p;
         public Pair(int a, int b){

@@ -14,7 +14,7 @@ class Node {
     }
 }
 
-public class Main {
+public class Picture {
     static int n, m, cnt, maxSize;
     static int[][] image;
     static boolean[][] visited;

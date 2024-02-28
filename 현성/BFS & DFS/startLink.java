@@ -1,7 +1,7 @@
 package prePractice;
 import java.util.Scanner;
 
-public class Main {
+public class startLink {
 
     static int N;
     static int[][] map;

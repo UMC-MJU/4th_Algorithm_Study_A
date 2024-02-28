@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-    public class BK_2156번 {
+    public class B2156 {
 
         static Integer[] dp;
         static int[] arr;

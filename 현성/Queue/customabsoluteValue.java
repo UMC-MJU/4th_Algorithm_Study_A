@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Practice {
+public class customabsoluteValue {
     private static int hsabs(int number){
         return (number<0)? -number:number;
     }
