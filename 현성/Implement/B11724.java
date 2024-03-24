@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main{
+public class B11724{
     //정점의 개수
     static int number;
     static int node[][];

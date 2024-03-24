@@ -2,7 +2,7 @@ package practice;
 
 import java.util.*;
 
-public class Main {
+public class findPrimeNumber {
 
     static boolean sosoo(int num) { // 소수라면 true 소수가 아니라면 false
         if(num < 2) {

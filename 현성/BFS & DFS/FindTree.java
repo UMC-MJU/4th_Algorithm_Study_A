@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main {
+public class FindTree {
     static int N; //노드의 개수
     static int[] parent; // 부모노드 저장
     static boolean[] isVisit; // 방문여부 확인
